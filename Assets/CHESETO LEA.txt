@@ -1,0 +1,38 @@
+Hello
+
+Necesito unas cosas, vea, usted sabe como activar los eventos de la cinemachine ?
+Para el brain, que al hacer click en un personaje cambie la cámara a la de ese personaje apenas estoy entendiendo como funciona la cinemachine.
+
+Otra cuestión, necesitamos un tablero de tareas como un trello para empezar a ponernos tareas semanales para así poder tener un seguimiento, además de eso usare este txt como medio para darle info de ves en cuando o antes de que me acuerde de escribirle. 
+
+El juego hasta ahora no posee ningún script, estuve fue pensando y aprendiendo de otras cosas principalmente me he demorado muchísimo pensando en la lógica del mismo me ha costado bastante.
+
+Por ahora que quiero hacer.
+- Transiciones como las del fallout shelter. De que una habitación pase de oscura a iluminada (Eso esta en los videos no me debería tomar mucho tiempo).
+- UI, con las barras de: Felicidad Promedio(Barra o Medidor), Numero de Rebeldes (Funcionalidad a Explicar)(Barra o Medidor), Numero de Habitantes (Medidor), Otros (Añadir mas Mecánicas);
+- Acercamientos de cámara con la Cinemachine.
+- Blur al acercar con la cinemachine.
+- Sistema de Diálogos Simple.
+- Animaciones.
+- NPCs Manager: Objeto de unity creado con el fin de ser donde cada uno de los personajes NPCs va a ser invocado. 
+
+
+
+Sistema de Rebeldía:
+- 
+
+
+Sistema de Felicidad:
+- 
+
+UI Por NPC:
+-
+
+Sistema de Diálogos Simple.
+- 
+
+Sistema de Construcción:
+	UI:
+	- Catalogo de Múltiples Habitáculos en donde el usuario se pueda desplazar verticalmente.
+	- 
+
